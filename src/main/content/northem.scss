@@ -18,6 +18,7 @@ Optimized for syntax highlighting and UI projects.
 [Index]
   (1) HEX
   (2) RGB
+  (3) X11
 
 [Variations]
 Also available as:
@@ -166,3 +167,25 @@ $rgb-orange:        rgb(239,160,112);
 $rgb-lime:          rgb(200,203,121);
 $rgb-purple:        rgb(194,162,201);
 /* +------------------------------------------------------------------------[2]-+ */
+
+/* +----------------------------------------------------------------------------+
+   + X11                                                                    [3] +
+   +----------------------------------------------------------------------------+ */
+$x11-nero:          #2D2D2E;
+$x11-dark_montana:  #333334;
+$x11-montana:       #383839;
+$x11-blue_zodiac:   #606062;
+$x11-gainsboro:     #DEDEDE;
+$x11-white_smoke:   #ECEEEF;
+
+$x11-aqua:          #90CDC7;
+$x11-glacier:       #86C1D2;
+$x11-sail:          #88B2CD;
+$x11-san_marino:    #5C81AE;
+
+$x11-light_coral:   #DF7574;
+$x11-cherokee:      #FCCE85;
+$x11-tacao:         #EFA070;
+$x11-deco:          #C8CB79;
+$x11-french_lilac:  #C2A2C9;
+/* +------------------------------------------------------------------------[3]-+ */
