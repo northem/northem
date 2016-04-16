@@ -3,7 +3,7 @@
 title     Northem                            +
 project   northem                            +
 file      northem.xml                        +
-version                                      +
+version   1.0.0                              +
 author    Arctic Ice Studio                  +
 email     development@arcticicestudio.com    +
 website   http://arcticicestudio.com/northem +
@@ -54,7 +54,7 @@ Native
   - Gpick Palette            (.gpa)
 
 [Version]
-- (https://github.com/arcticicestudio/northem/releases/latest)
+1.0.0 (https://github.com/arcticicestudio/northem/releases/latest)
 
 For older versions check out the GitHub Repository (https://github.com/arcticicestudio/northem)
 and http://arcticicestudio.com/northem.
