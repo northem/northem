@@ -1,0 +1,123 @@
+<!--
+++++++++++++++++++++++++++++++++++++++++++++++
+title     Northem                            +
+project   northem                            +
+file      northem.xml                        +
+version                                      +
+author    Arctic Ice Studio                  +
+email     development@arcticicestudio.com    +
+website   http://arcticicestudio.com/northem +
+copyright Copyright (C) 2015-2016            +
+created   2015-03-13 19:24 UTC+0100          +
+modified  2016-04-16 11:40 UTC+0200          +
+++++++++++++++++++++++++++++++++++++++++++++++
+
+[Description]
+Northem is a north-bluish dark color palette designed by Arctic Ice Studio.
+Optimized for syntax highlighting and UI projects.
+
+[Variations]
+Also available as:
+  "Northem Dark"   (https://github.com/arcticicestudio/northem-dark)
+  "Northem Light"  (https://github.com/arcticicestudio/northem-light)
+
+[Projects]
+Based on this the following projects are available:
+
+Syntax
+  - "Northem - IntelliJ IDEA Syntax" (https://github.com/arcticicestudio/northem-intellij-idea-syntax)
+  - "Northem - Atom Syntax"          (https://github.com/arcticicestudio/northem-atom-syntax)
+  - "Northem - Eclipse Syntax"       (https://github.com/arcticicestudio/northem-eclipse-syntax)
+  - "Northem - Gedit Syntax"         (https://github.com/arcticicestudio/northem-gedit-syntax)
+  - "Northem - Notepad++ Syntax"     (https://github.com/arcticicestudio/northem-notepadplusplus-syntax)
+
+UI
+  - "Northem Atom UI"  (https://github.com/arcticicestudio/northem-atom-ui)
+  - "Northem GTK"      (in drafting)
+
+Libraries
+  - "Northem Java" (https://github.com/arcticicestudio/northem-java)
+
+Visit the official website http://arcticicestudio.com/northem for more information.
+
+[File Formats]
+Non-Native
+  - Sass    (.scss)
+  - LESSCSS (.less)
+  - JSON    (.json)
+  - XML     (.xml)
+
+Native
+  - GIMP/Inkscape Palette    (.gcl)
+  - Adobe Swatch Exchange    (.ase)
+  - Alias/WaveFront Material (.mtl)
+  - Gpick Palette            (.gpa)
+
+[Version]
+- (https://github.com/arcticicestudio/northem/releases/latest)
+
+For older versions check out the GitHub Repository (https://github.com/arcticicestudio/northem)
+and http://arcticicestudio.com/northem.
+
+[Changelog]
+Check out the "CHANGELOG.md" or visit the GitHub Repository (https://github.com/arcticicestudio/northem)
+and http://arcticicestudio.com/northem.
+
+[Development]
+Workflow
+This project follows the [gitflow](http://nvie.com/posts/a-successful-git-branching-model) branching model.
+
+Specifications
+This project follows the [Arctic Versioning Specification (ArcVer)](https://github.com/arcticicestudio/arcver).
+
+[Dependencies]
+Development
+  Engines
+    - git@2.8.* (https://git-scm.com)
+
+  Specifications
+    - arcver@0.8.0 (https://github.com/arcticicestudio/arcver)
+
+  Skeletons
+    - glacier-git@0.23.0 (https://github.com/arcticicestudio/glacier-git)
+
+[Recommendations]
+Fonts
+  Syntax
+    This theme matches the Open Source font "Source Code Pro" (https://typekit.com/fonts/source-code-pro).
+    Visit the GitHub Repository (https://github.com/adobe-fonts/source-code-pro) for more information.
+
+  UI
+    This theme matches the Open Source font "Roboto" (http://www.google.com/fonts/specimen/Roboto).
+    Visit the GitHub Repository (https://github.com/google/fonts/tree/master/apache/roboto) for more information.
+
+[Contribution]
+Please report issues/bugs, suggestions for improvements and feature requests to the issuetracker
+at https://github.com/arcticicestudio/northem/issues.
+
+[Author]
+The "Northem" project is developed and authored by Arctic Ice Studio.
+
+[Copyright]
+Copyright (C) 2015-2016 Arctic Ice Studio <development@arcticicestudio.com>
+
+[License]
+Northem code is licensed under "GPL 3.0" (http://www.gnu.org/licenses/gpl.txt).
+Northem color palette itself is licensed under "CC BY-SA 4.0" (http://creativecommons.org/licenses/by-sa/4.0).
+
+[References]
+Sass
+  (http://sass-lang.com)
+LESSCSS
+  (http://lesscss.org)
+X Window System Documentation
+  (http://www.x.org/releases/X11R7.7/doc)
+Arctic Versioning Specification
+  (http://specs.arcticicestudio.com/arcver) (ArcVer)
+gitflow
+  (http://nvie.com/posts/a-successful-git-branching-model)
+Glacier - Git
+  (https://github.com/arcticicestudio/glacier-git)
+-->
+
+<?xml version="1.0" encoding="UTF-8" ?>
