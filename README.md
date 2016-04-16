@@ -49,12 +49,12 @@ Visit the [official website](http://arcticicestudio.com/northem) (currently unde
   - Gpick Palette `.gpa`
 
 ### Version
-[`-`](https://github.com/arcticicestudio/northem/releases/latest)  
+[`0.0.0`](https://github.com/arcticicestudio/northem/releases/latest)  
 
 For older versions check out the [GitHub Repository](https://github.com/arcticicestudio/northem) and the [official website](http://arcticicestudio.com/northem) (currently under construction).
 
 ### Changelog
-[`-`](CHANGELOG.md)
+[`0.0.0`](CHANGELOG.md)
 
 ### Development
 #### Workflow
