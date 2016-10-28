@@ -17,6 +17,9 @@ machine:
 general:
   artifacts:
     - ./build/*
+dependencies:
+  override:
+    - npm install -g gulp
 test:
   override:
     - gulp compile-css-template sassdoc
