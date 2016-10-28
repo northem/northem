@@ -1,0 +1,23 @@
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# title      Circle CI Build Configuration              +
+# project    northem                                    +
+# version                                               +
+# repository https://github.com/arcticicestudio/northem +
+# author     Arctic Ice Studio                          +
+# email      development@arcticicestudio.com            +
+# copyright  Copyright (C) 2016                         +
+# +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#
+# [References]
+# Circle CI
+#   (https://circleci.com/docs)
+machine:
+  node:
+    version: 6.1.0
+general:
+  artifacts:
+    - ./build/*
+test:
+  override:
+    - gulp compile-css-template sassdoc
+    - find . -type f -regextype posix-egrep -regex ".*/build/(.*)" -exec cp {} $CIRCLE_ARTIFACTS \;
