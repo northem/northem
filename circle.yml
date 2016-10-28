@@ -20,6 +20,7 @@ general:
 dependencies:
   override:
     - npm install -g gulp
+    - npm install
 test:
   override:
     - gulp compile-css-template sassdoc
