@@ -1,0 +1,42 @@
+{
+  "name": "northem",
+  "title": "Northem",
+  "version": "",
+  "description": "A north-bluish, dark color palette",
+  "author": {
+    "name": "Arctic Ice Studio",
+    "email": "development@arcticicestudio.com",
+    "url": "http://arcticicestudio.com"
+  },
+  "homepage": "https://github.com/arcticicestudio/northem",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcticicestudio/northem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arcticicestudio/northem/issues"
+  },
+  "license" : "(Apache-2.0 AND CC-BY-SA-4.0)",
+  "keywords": [
+    "northem",
+    "north",
+    "bluish",
+    "dark",
+    "flat",
+    "clean",
+    "minimal",
+    "ui",
+    "syntax"
+  ],
+  "devDependencies": {
+    "del": "2.2.2",
+    "gulp": "3.9.1",
+    "gulp-help": "1.6.1",
+    "gulp-plumber": "1.1.0",
+    "gulp-rename": "1.2.2",
+    "gulp-sass": "2.3.2",
+    "gulp-util": "3.0.7",
+    "sassdoc": "2.1.20",
+    "sassdoc-theme-flippant": "0.1.0"
+  }
+}
