@@ -1,0 +1,12 @@
+{
+  "dest": "./build/documentation/sassdoc",
+  "package": "package.json",
+  "groups": {
+    "darkwater": "Dark Water",
+    "lightwind": "Light Wind",
+    "ice": "Ice",
+    "rainbow": "Rainbow"
+  },
+  "theme": "flippant",
+  "verbose": true
+}
