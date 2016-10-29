@@ -2,7 +2,7 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 title      Gulp Project File                          +
 project    northem                                    +
-version                                               +
+version    2.0.0                                      +
 repository https://github.com/arcticicestudio/northem +
 author     Arctic Ice Studio                          +
 email      development@arcticicestudio.com            +
@@ -120,7 +120,7 @@ gulp.task("compile-css-template", function() {
   return gulp.src(path.join(config.src.sass, "/template-css." + config.tasks.compilation.sass.extensions.input))
     .pipe(plumber())
     .pipe(sass(config.tasks.compilation.sass.options).on("error", sass.logError))
-    .pipe(rename(config.project.id + config.tasks.compilation.sass.extensions.output))
+    .pipe(rename(config.project.id + "." + config.tasks.compilation.sass.extensions.output))
     .pipe(gulp.dest(config.build.css))
 });
 
