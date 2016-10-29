@@ -34,7 +34,7 @@ var config = {
   project: {
     id: "northem",
     name: "Northem",
-    version: "",
+    version: "2.0.0",
     repository: "https://github.com/arcticicestudio/northem",
     author: "Arctic Ice Studio",
     email: "development@arcticicestudio.com"

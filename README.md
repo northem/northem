@@ -85,7 +85,7 @@ A list of detailed information about each file format can be found [here](http:/
 [![Northem Vim](https://cdn.rawgit.com/arcticicestudio/northem/develop/src/assets/northem-vim-banner.svg)](https://github.com/arcticicestudio/northem-vim)  
 
 ## Development
-[![](https://img.shields.io/badge/Changelog-1.0.0-blue.svg)](https://github.com/arcticicestudio/northem/blob/v1.0.0/CHANGELOG.md) [![](https://img.shields.io/badge/Workflow-gitflow_Branching_Model-blue.svg)](http://nvie.com/posts/a-successful-git-branching-model) [![](https://img.shields.io/badge/Versioning-ArcVer_0.8.0-blue.svg)](https://github.com/arcticicestudio/arcver)
+[![](https://img.shields.io/badge/Changelog-2.0.0-blue.svg)](https://github.com/arcticicestudio/northem/blob/v2.0.0/CHANGELOG.md) [![](https://img.shields.io/badge/Workflow-gitflow_Branching_Model-blue.svg)](http://nvie.com/posts/a-successful-git-branching-model) [![](https://img.shields.io/badge/Versioning-ArcVer_0.8.0-blue.svg)](https://github.com/arcticicestudio/arcver)
 
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/arcticicestudio/northem/issues).
