@@ -24,4 +24,4 @@ dependencies:
 test:
   override:
     - gulp compile-css-template sassdoc
-    - find . -type f -regextype posix-egrep -regex ".*/build/(.*)" -exec cp {} $CIRCLE_ARTIFACTS \;
+    - find . -maxdepth 2 -type d -regextype posix-egrep -regex ".*/build/(.*)" -exec cp -r {} $CIRCLE_ARTIFACTS \;
